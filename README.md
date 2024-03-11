@@ -1,2 +1,1 @@
-# surf-flutter-intensive-vladskv
-Project
+Курсовые работы Vlad Skv
